@@ -132,12 +132,6 @@ Frontend runs on `http://localhost:5173`
 
 ---
 
-## 📸 Screenshots
-
-> _Add screenshots of your Login, Register, and Notes pages here._
-
----
-
 ## 📄 License
 
 This project is open source and available under the [MIT License](LICENSE).
