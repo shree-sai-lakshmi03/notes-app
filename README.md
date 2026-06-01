@@ -85,7 +85,7 @@ Authorization: Bearer <your_token>
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/notes-app.git
+git clone https://github.com/shree-sai-lakshmi03/notes-app.git
 cd notes-app
 ```
 
